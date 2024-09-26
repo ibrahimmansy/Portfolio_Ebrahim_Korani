@@ -39,7 +39,7 @@ html {
 
 /* start header  */
 #home {
-    background-color: #000;
+    background: url(bg-home.jpeg) center center/cover no-repeat fixed;
     height: 100vh;
 }
 
